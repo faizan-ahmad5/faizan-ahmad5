@@ -1,7 +1,7 @@
 <h1>About</h1>
-- 👋 Hi, I’m @Faizan-Ahmad-Khan and I am Computer Science student.
-- 👀 I’m interested in Programming.
-- 🌱 I’m currently learning  Web and App Development.
+- 👋 Hi, I’m @Faizan-Ahmad-Khan and I am Computer Science student.<br>
+- 👀 I’m interested in Programming.<br>
+- 🌱 I’m currently learning  Web and App Development.<br>
 
 <h1>Languages and Tools:</h1>
 <div align="left">
