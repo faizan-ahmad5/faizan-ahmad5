@@ -1,5 +1,5 @@
 <h1>About</h1>
-- 👋 Hi, I’m @Faizan-Ahmad-Khan and I am Computer Science student.<br>
+- 👋 Hi, I’m Faizan Ahmad Khan and I am Computer Science student.<br>
 - 👀 I’m interested in Programming.<br>
 - 🌱 I’m currently learning  Web and App Development.<br>
 
