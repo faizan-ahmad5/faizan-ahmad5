@@ -2,6 +2,7 @@
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning  Web and App Development.
 
+<h1>Languages and Tools:</h1>
 <div align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="15" />
