@@ -11,6 +11,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap- 
-  original.svg" height="30" alt="bootstrap logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
 </div>
