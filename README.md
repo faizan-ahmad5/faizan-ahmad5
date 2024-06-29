@@ -2,6 +2,7 @@
 - 👋 Hi, I’m Faizan Ahmad Khan and I am Computer Science student.<br>
 - 👀 I’m interested in Programming.<br>
 - 🌱 I’m currently learning  Web and App Development.<br>
+-📫 How to reach me: fa3n20004@gmail.com
 
 <h1>Languages and Tools:</h1>
 <div align="left">
