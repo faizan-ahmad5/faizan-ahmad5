@@ -26,7 +26,7 @@
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/)](https://www.linkedin.com/in/faizan-ahmad-khan5/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&labelColor=black&link=https://github.com/)](https://github.com/Faizan-Ahmad-Khan/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&labelColor=black&link=https://github.com/)](https://github.com/faizan-ahmad)
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&labelColor=red&link=mailto:fa3n20004@gmail.com)](mailto:fa3n20004@gmail.com)
 
 ---
