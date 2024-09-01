@@ -9,6 +9,7 @@
 ## Languages and Tools
 
 <div align="left">
+  <img src="https://img.icons8.com/color/48/firebase.png" height="40" alt="firebase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
