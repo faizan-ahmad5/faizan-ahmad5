@@ -10,6 +10,8 @@ I’m looking to collaborate on innovative projects in the web development and t
 ## 🛠️ Languages and Tools
 
 <p align="left">
+  <img src="https://img.icons8.com/color/50/express-js.png" height="40" alt="Express.js" />
+  <img width="8" />
   <img src="https://img.icons8.com/color/48/nodejs.png" height="40" alt="Node.js" />
   <img width="8" />
   <img src="https://img.icons8.com/color/48/firebase.png" height="40" alt="Firebase" />
