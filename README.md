@@ -1,6 +1,6 @@
 # Faizan Ahmad Khan
 
-Hi, I’m **Faizan Ahmad Khan**, a third-semester Computer Science student pursuing my Bachelor's degree at UET Peshawar, with a focus on **Full-Stack Web Development**. Over the past year, I have developed skills in **HTML5, CSS3, Bootstrap 5, Tailwind CSS, JavaScript**, and **React.js**. Currently, I’m expanding my backend knowledge with **Node.js, Express.js**, and **MongoDB**, working towards becoming a full-stack developer.
+Hi, I’m **Faizan Ahmad Khan**, a fourth-semester Computer Science student pursuing my Bachelor's degree at UET Peshawar, with a focus on **Full-Stack Web Development**. Over the past year, I have developed skills in **HTML5, CSS3, Bootstrap 5, Tailwind CSS, JavaScript**, and **React.js**. Currently, I’m expanding my backend knowledge with **Node.js, Express.js**, and **MongoDB**, working towards becoming a full-stack developer.
 
 I’m looking to collaborate on innovative projects in the web development and tech industry.
 
