@@ -41,20 +41,6 @@ I am building knowledge and practical skills in **ethical hacking** to better un
 - Network analysis and misconfiguration testing
 - Bug bounty workflows and responsible disclosure practices
 
-**Tools in use:**
-- Burp Suite, OWASP ZAP
-- Nmap, Nikto
-- SQLmap, Dirsearch
-- Wireshark
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizan-ahmad5&theme=tokyo-night&hide_border=true" />
-</p>
-
 ---
 
 ## 📫 Connect with Me
