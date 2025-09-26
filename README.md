@@ -65,7 +65,7 @@ I am building knowledge and practical skills in **ethical hacking** to better un
 
 ## Profile Views
 
-<p align="left">
+<p>
   <img src="https://komarev.com/ghpvc/?username=faizan-ahmad5&color=blue" alt="Profile Views" />
 </p>
 
