@@ -5,16 +5,16 @@ I am **Faizan Ahmad Khan**, a fourth‑semester Computer Science student at **UE
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Pursuing a Bachelor's degree in Computer Science at UET Peshawar (4th Semester)
-- 💻 Focus: Full‑Stack Web Development (React, Node.js, Express, MongoDB)
-- 🔐 Interest: Ethical Hacking & Cybersecurity (application security, penetration testing)
-- 🤝 Open to collaborations in web application development, cybersecurity initiatives, and open‑source contributions
+- Pursuing a Bachelor's degree in Computer Science at UET Peshawar (4th Semester)
+- Focus: Full‑Stack Web Development (React, Node.js, Express, MongoDB)
+- Interest: Ethical Hacking & Cybersecurity (application security, penetration testing)
+- Open to collaborations in web application development, cybersecurity initiatives, and open‑source contributions
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="left">
   <img width="24" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="MongoDB"/>
@@ -31,7 +31,7 @@ I am **Faizan Ahmad Khan**, a fourth‑semester Computer Science student at **UE
 
 ---
 
-## 🔒 Ethical Hacking & Security
+## Ethical Hacking & Security
 
 I am building knowledge and practical skills in **ethical hacking** to better understand vulnerabilities and strengthen application security. My focus is on responsible disclosure and authorized testing.
 
@@ -45,7 +45,7 @@ I am building knowledge and practical skills in **ethical hacking** to better un
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 <p>
   <a href="https://www.linkedin.com/in/faizan-ahmad-khan5/" target="_blank">
@@ -69,7 +69,7 @@ I am building knowledge and practical skills in **ethical hacking** to better un
 
 ---
 
-## ⚖️ Responsible Disclosure
+## Responsible Disclosure
 
 If you discover a potential security issue related to my projects, please contact me at **fa3n20004@gmail.com** with a detailed report. I follow responsible disclosure practices and will work to resolve issues promptly.
 
