@@ -41,9 +41,7 @@ I am building knowledge and practical skills in **ethical hacking** to better un
 - Network analysis and misconfiguration testing
 - Bug bounty workflows and responsible disclosure practices
 
-<p align="left">
-<img src="https://tryhackme-badges.s3.amazonaws.com/fa3n.png" alt="Your Image Badge" />
-</p>
+
 
 ---
 
