@@ -1,18 +1,8 @@
 # Faizan Ahmad Khan
 *Full‑Stack Developer | Ethical Hacking Enthusiast | Building Secure & Scalable Web Apps*
 
-I am **Faizan Ahmad Khan**, a fourth‑semester Computer Science student at **UET Peshawar**, specializing in **Full‑Stack Web Development** and expanding into **Ethical Hacking & Cybersecurity**. My goal is to build efficient, scalable, and secure applications by combining development skills with a security‑first mindset.
+I am **Faizan Ahmad Khan**, a fourth‑semester Computer Science student at **UET Peshawar**, specializing in **Full‑Stack Web Development** and expanding into **Ethical Hacking & Cybersecurity**. My goal is to build efficient, scalable and secure applications by combining development skills with a security‑first mindset.
 
----
-
-## About Me
-
-- Pursuing a Bachelor's degree in Computer Science at UET Peshawar (4th Semester)
-- Focus: Full‑Stack Web Development (React, Node.js, Express, MongoDB)
-- Interest: Ethical Hacking & Cybersecurity (application security, penetration testing)
-- Open to collaborations in web application development, cybersecurity initiatives, and open‑source contributions
-
----
 
 ## Languages & Tools
 
@@ -29,21 +19,6 @@ I am **Faizan Ahmad Khan**, a fourth‑semester Computer Science student at **UE
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
 </p>
 
----
-
-## Ethical Hacking & Security
-
-I am building knowledge and practical skills in **ethical hacking** to better understand vulnerabilities and strengthen application security. My focus is on responsible disclosure and authorized testing.
-
-**Core areas of learning:**
-- Web application penetration testing (OWASP Top 10)
-- Reconnaissance and OSINT techniques
-- Network analysis and misconfiguration testing
-- Bug bounty workflows and responsible disclosure practices
-
-
-
----
 
 ## Connect with Me
 
