@@ -4,22 +4,6 @@
 I am **Faizan Ahmad Khan**, a fourth‑semester Computer Science student at **UET Peshawar**, specializing in **Full‑Stack Web Development** and expanding into **Ethical Hacking & Cybersecurity**. My goal is to build efficient, scalable and secure applications by combining development skills with a security‑first mindset.
 
 
-## Languages & Tools
-
-<p align="left">
-  <img width="24" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/50/express-js.png" height="40" alt="Express.js" />
-  <img src="https://img.icons8.com/color/48/nodejs.png" height="40" alt="Node.js" />
-  <img src="https://img.icons8.com/color/48/firebase.png" height="40" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/tailwind_css.png" height="40" alt="Tailwind CSS" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-</p>
-
-
 ## Connect with Me
 
 <p>
