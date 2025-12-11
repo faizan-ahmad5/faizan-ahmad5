@@ -1,5 +1,4 @@
 # Faizan Ahmad Khan
-*Full‑Stack Developer | Ethical Hacking Enthusiast | Building Secure & Scalable Web Apps*
 
 **Faizan Ahmad Khan**, a fourth‑semester Computer Science student at **UET Peshawar**, specializing in **Full‑Stack Web Development** and expanding into **Ethical Hacking & Cybersecurity**. 
 
