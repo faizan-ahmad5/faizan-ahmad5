@@ -1,6 +1,6 @@
 # Faizan Ahmad Khan
 
-**Faizan Ahmad Khan**, a fourth‑semester Computer Science student at **UET Peshawar**, specializing in **Full‑Stack Web Development** and expanding into **Ethical Hacking & Cybersecurity**. 
+**Faizan Ahmad Khan**, a fourth‑semester Computer Science student at **UET Peshawar**.
 
 
 ## Connect with Me
