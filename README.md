@@ -1,6 +1,6 @@
 # Faizan Ahmad Khan
 
-**Faizan Ahmad Khan**, a fourth‑semester Computer Science student at **UET Peshawar**.
+**Faizan Ahmad Khan**, a fifth semester Computer Science student at **UET Peshawar**.
 
 
 ## Connect with Me
