@@ -15,6 +15,9 @@
   <a href="mailto:fa3n20004@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
+  <a href="https://tryhackme.com/p/fa3n" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-darkgreen?style=for-the-badge&logo=tryhackme" alt="TryHackMe" />
+  </a>
 </p>
 
 ---
@@ -30,6 +33,3 @@
 ## Responsible Disclosure
 
 If you discover a potential security issue related to my projects, please contact me at **fa3n20004@gmail.com** with a detailed report. I follow responsible disclosure practices and will work to resolve issues promptly.
-
-
-
